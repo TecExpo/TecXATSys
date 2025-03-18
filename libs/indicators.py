@@ -1,0 +1,1 @@
+# Compute 11+ technical indicators
