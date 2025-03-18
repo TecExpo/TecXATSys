@@ -1,1 +1,1 @@
-# AI-based smart risk control
+# AI-based risk management

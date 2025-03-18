@@ -1,1 +1,2 @@
- # Automated deployment script
+#!/bin/bash
+# Deployment script

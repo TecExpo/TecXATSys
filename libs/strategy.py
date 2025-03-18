@@ -1,1 +1,1 @@
-# AI-based trading strategies
+# AI trading strategies

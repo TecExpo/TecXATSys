@@ -1,0 +1,1 @@
+# Algo trading package documentation

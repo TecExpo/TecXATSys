@@ -1,1 +1,1 @@
-# Portfolio optimization (AI + Hedging)
+# Portfolio management

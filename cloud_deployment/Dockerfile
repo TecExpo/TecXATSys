@@ -1,1 +1,1 @@
- # Docker container for deployment
+# Docker configuration

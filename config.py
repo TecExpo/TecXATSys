@@ -1,1 +1,1 @@
-#  Configuration settings (API keys, params)
+# Configuration settings

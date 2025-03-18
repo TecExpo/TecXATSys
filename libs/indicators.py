@@ -1,1 +1,1 @@
-# Compute 11+ technical indicators
+# Calculate technical indicators

@@ -1,1 +1,1 @@
- # Send AI alerts to Telegram
+# Send alerts

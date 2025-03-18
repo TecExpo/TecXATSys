@@ -1,1 +1,1 @@
-# Entry point for the entire system
+# Entry point for the trading system
